@@ -1,0 +1,19 @@
+#Tue Jun 12 23:17:29 MSD 2012
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster/name=Bundle pool
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster/enabled=true
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster_p2_org.eclipse.equinox.p2.core_cache/description=
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster_p2_org.eclipse.equinox.p2.core_cache/uri=file\:/C\:/Jenkins/tools/Buckminster/Buckminster_3.6/buckminster/p2/org.eclipse.equinox.p2.core/cache/
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster_p2_org.eclipse.equinox.p2.core_cache/name=download cache
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster_p2_org.eclipse.equinox.p2.core_cache/version=1.0.0
+eclipse.preferences.version=1
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster/isSystem=true
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster_p2_org.eclipse.equinox.p2.core_cache/provider=
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster/description=
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster_p2_org.eclipse.equinox.p2.core_cache/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster_p2_org.eclipse.equinox.p2.core_cache/enabled=true
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster_p2_org.eclipse.equinox.p2.core_cache/isSystem=true
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster/provider=
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster_p2_org.eclipse.equinox.p2.core_cache/suffix=artifacts.xml
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster/version=1
+repositories/file\:_C\:_Jenkins_tools_Buckminster_Buckminster_3.6_buckminster/uri=file\:/C\:/Jenkins/tools/Buckminster/Buckminster_3.6/buckminster/

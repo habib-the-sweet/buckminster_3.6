@@ -1,0 +1,32 @@
+!SESSION 2012-06-13 01:06:26.274 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_25
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ru_RU
+Framework arguments:  -application org.eclipse.equinox.p2.director -repository file:/C:/Jenkins/jobs/DCO/workspace/buckminster.output/se.highex.dco.site_1.0.0-eclipse.feature/site.p2/ -destination C:\Jenkins\jobs\DCO\workspace\buckminster.output\se.highex.dco.site_1.0.0-eclipse.feature\dco.win32.win32.x86 -profile DcoProfile -profileProperties org.eclipse.update.install.features=true -installIU se.highex.dbo.product -p2.os win32 -p2.ws win32 -p2.arch x86
+Command-line arguments:  -application org.eclipse.equinox.p2.director -repository file:/C:/Jenkins/jobs/DCO/workspace/buckminster.output/se.highex.dco.site_1.0.0-eclipse.feature/site.p2/ -destination C:\Jenkins\jobs\DCO\workspace\buckminster.output\se.highex.dco.site_1.0.0-eclipse.feature\dco.win32.win32.x86 -profile DcoProfile -profileProperties org.eclipse.update.install.features=true -installIU se.highex.dbo.product -p2.os win32 -p2.ws win32 -p2.arch x86 -consoleLog
+
+!ENTRY org.eclipse.equinox.p2.director 4 1 2012-06-13 01:06:36.915
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 0 2012-06-13 01:06:36.915
+!MESSAGE Software being installed: DCO 1.0.2.qualifier (se.highex.dbo.product 1.0.2.qualifier)
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 0 2012-06-13 01:06:36.915
+!MESSAGE Missing requirement: Text Editor Framework 3.7.0.v20110928-1504 (org.eclipse.ui.workbench.texteditor 3.7.0.v20110928-1504) requires 'bundle org.eclipse.jface.text [3.7.0,4.0.0)' but it could not be found
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-06-13 01:06:36.915
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-13 01:06:36.915
+!MESSAGE From: Dbo Plug-in 1.0.2.201206130101 (se.highex.dbo 1.0.2.201206130101)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-13 01:06:36.915
+!MESSAGE To: bundle org.eclipse.ui.workbench.texteditor [3.7.0,4.0.0)
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-06-13 01:06:36.915
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-13 01:06:36.915
+!MESSAGE From: Dbo 1.0.2.20120613010-7B7A1cLSJ--7w31231231025350_ (se.highex.dbo.feature.feature.group 1.0.2.20120613010-7B7A1cLSJ--7w31231231025350_)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-13 01:06:36.915
+!MESSAGE To: se.highex.dbo [1.0.2.201206130101]
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-06-13 01:06:36.915
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-13 01:06:36.915
+!MESSAGE From: DCO 1.0.2.qualifier (se.highex.dbo.product 1.0.2.qualifier)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-13 01:06:36.915
+!MESSAGE To: se.highex.dbo.feature.feature.group [1.0.2.20120613010-7B7A1cLSJ--7w31231231025350_]

@@ -1,0 +1,65 @@
+Manifest-Version: 1.0
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6,J2SE-1.5
+Bundle-SymbolicName: org.eclipse.buckminster.pde; singleton:=true
+Bundle-Activator: org.eclipse.buckminster.pde.PDEPlugin
+Require-Bundle: org.eclipse.buckminster.ant;bundle-version="[1.2.0,2.0
+ .0)",org.eclipse.buckminster.jdt;bundle-version="[1.0.0,2.0.0)",org.e
+ clipse.buckminster.cmdline;bundle-version="[1.0.0,2.0.0)",org.eclipse
+ .buckminster.core;bundle-version="[1.2.0,2.0.0)",org.eclipse.buckmins
+ ter.download;bundle-version="[1.1.0,2.0.0)",org.eclipse.buckminster.j
+ arprocessor;bundle-version="[1.0.0,2.0.0)",org.eclipse.buckminster.os
+ gi.filter;bundle-version="[1.0.0,2.0.0)",org.eclipse.buckminster.runt
+ ime;bundle-version="[1.2.0,2.0.0)",org.eclipse.buckminster.sax;bundle
+ -version="[1.0.0,2.0.0)",org.apache.ant;bundle-version="[1.7.0,2.0.0)
+ ",org.eclipse.ant.core;bundle-version="[3.2.0,4.0.0)",org.eclipse.cor
+ e.resources;bundle-version="[3.6.0,4.0.0)",org.eclipse.core.runtime;b
+ undle-version="[3.6.0,4.0.0)",org.eclipse.jdt.core;bundle-version="[3
+ .6.0,4.0.0)",org.eclipse.jdt.launching;bundle-version="[3.5.0,4.0.0)"
+ ,org.eclipse.pde.api.tools;bundle-version="[1.0.0,2.0.0)",org.eclipse
+ .pde.build;bundle-version="[3.6.0,4.0.0)",org.eclipse.pde.core;bundle
+ -version="[3.6.0,4.0.0)",org.eclipse.ecf;bundle-version="[3.1.0,4.0.0
+ )",org.eclipse.equinox.frameworkadmin;bundle-version="[2.0.0,3.0.0)",
+ org.eclipse.equinox.p2.artifact.repository;bundle-version="[1.1.0,2.0
+ .0)",org.eclipse.equinox.p2.core;bundle-version="[2.0.0,3.0.0)",org.e
+ clipse.equinox.p2.engine;bundle-version="[2.0.0,3.0.0)",org.eclipse.e
+ quinox.p2.metadata;bundle-version="[2.0.0,3.0.0)",org.eclipse.equinox
+ .p2.metadata.repository;bundle-version="[1.1.0,2.0.0)",org.eclipse.eq
+ uinox.p2.publisher;bundle-version="[1.1.0,2.0.0)",org.eclipse.equinox
+ .p2.repository;bundle-version="[2.0.0,3.0.0)",org.eclipse.equinox.p2.
+ updatesite;bundle-version="[1.0.0,2.0.0)",org.eclipse.team.core;bundl
+ e-version="[3.5.0,4.0.0)"
+Export-Package: org.eclipse.buckminster.pde,org.eclipse.buckminster.pd
+ e.cspecgen,org.eclipse.buckminster.pde.cspecgen.bundle,org.eclipse.bu
+ ckminster.pde.cspecgen.feature,org.eclipse.buckminster.pde.internal;x
+ -friends:="org.eclipse.buckminster.pde.test",org.eclipse.buckminster.
+ pde.mapfile,org.eclipse.buckminster.pde.mapprovider,org.eclipse.buckm
+ inster.pde.prefs,org.eclipse.buckminster.pde.tasks;x-friends:="org.ec
+ lipse.buckminster.pde.test"
+Bundle-Version: 1.2.1.r11746
+Bundle-ClassPath: pde.jar
+Ant-Version: Apache Ant 1.7.1
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: Eclipse Buckminster Project
+Bundle-Name: Buckminster PDE Plug-in
+Eclipse-BundleShape: dir
+Created-By: 17.0-b16 (Sun Microsystems Inc.)
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: +AdFp1Zakj/5YbyNwx0M/HAMlYI=
+
+Name: COPYRIGHT
+SHA1-Digest: cAlfgooi8OaPwe9GV3nYjtceTX0=
+
+Name: ant_tasks/ant_tasks.jar
+SHA1-Digest: tPWvJ4zGCGRO0nTw8GzOPRC1igg=
+
+Name: plugin.xml
+SHA1-Digest: O7BKSL/cHQOQemsESONp97YDWIU=
+
+Name: about.html
+SHA1-Digest: x4t5RSteqX1fe6sogSZ/t6k5jzE=
+
+Name: pde.jar
+SHA1-Digest: 6hA711n7XT/eOJSe63EspgcdXbY=
+

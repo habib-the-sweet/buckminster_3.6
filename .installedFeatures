@@ -1,0 +1,10 @@
+http://download.eclipse.org/tools/buckminster/headless-3.6/
+-org.eclipse.buckminster.core.headless.feature
+-org.eclipse.buckminster.cvs.headless.feature
+-org.eclipse.buckminster.pde.headless.feature
+-org.eclipse.buckminster.maven.headless.feature
+-org.eclipse.equinox.p2.director.feature
+-org.eclipse.buckminster.emma.headless.feature
+-org.eclipse.buckminster.git.headless.feature
+http://download.cloudsmith.com/buckminster/external-3.6
+-org.eclipse.buckminster.subclipse.headless.feature
